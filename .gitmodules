@@ -4,21 +4,21 @@
 	branch = system
 [submodule "lab2"]
 	path = lab2
-	url = git@github.com:zlfn/cs311-lab2.git
+	url = https://github.com/zlfn/cs311-lab2.git
 	branch = main
 [submodule "lab3"]
 	path = lab3
-	url = git@github.com:zlfn/cs311-lab3.git
+	url = https://github.com/zlfn/cs311-lab3.git
 	branch = main
 [submodule "lab4-1"]
 	path = lab4-1
-	url = git@github.com:zlfn/cs311-lab4.git
+	url = https://github.com/zlfn/cs311-lab4.git
 	branch = lab4-1
 [submodule "lab4-2"]
 	path = lab4-2
-	url = git@github.com:zlfn/cs311-lab4.git
+	url = https://github.com/zlfn/cs311-lab4.git
 	branch = lab4-2
 [submodule "lab5"]
 	path = lab5
-	url = git@github.com:zlfn/cs311-lab5.git
+	url = https://github.com/zlfn/cs311-lab5.git
 	branch = master
