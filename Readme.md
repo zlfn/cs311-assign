@@ -26,3 +26,10 @@ git clone --recursive https://github.com/zlfn/cs311-assign.git
 # or, after a plain clone:
 git submodule update --init
 ```
+
+## License
+
+The lab skeletons and testbench harnesses were written by CSED311 course staff and carry no explicit license. This repository does **not** copy that code directly; each lab is pulled in as a submodule pointing to a **fork** of the course repository. Under [GitHub's Terms of Service, Section 5 "License Grant to Other Users"](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users), every public repository on GitHub automatically grants every GitHub user the right to fork it (to create public copies within GitHub) regardless of the repository's own license terms. Because the staff-authored code lives only in those forks and is referenced here by submodule, this repository does not violate the course staff's rights.
+
+`lab1` has no upstream repository to fork, so it cannot be included in that manner. Its staff-authored testbench harnesses have therefore been removed, and only my own implementation is kept.
+
