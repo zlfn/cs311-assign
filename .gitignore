@@ -1,0 +1,11 @@
+# build artifacts
+obj_dir/
+out/
+*.vcd
+*.fsdb
+.stamp.verilate
+*.log
+# editor / local
+.nvim/
+.claude/
+.DS_Store
